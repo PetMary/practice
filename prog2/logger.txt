@@ -1,0 +1,4 @@
+[09.07.2021 9:24:11] [debug]: 1 mes_file
+[09.07.2021 9:24:11] [error]: 2 mes_file
+[09.07.2021 9:24:11] [information]: 3 mes_file
+[09.07.2021 9:24:11] [debug]: 4 mes_file
